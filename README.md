@@ -1,6 +1,7 @@
 # LLD-Design
 
 <https://dillinger.io/ >
+https://discord.com/channels/1326463093538033666/1326463093538033669 
 
 Becoming an expert in **Low-Level Design (LLD)** requires a mix of theoretical knowledge, practical application, and ongoing refinement of problem-solving and design skills. Here’s a structured approach to master LLD:
 
