@@ -12,6 +12,7 @@ Use Structured Resources
 * Videos:
     * YouTube channels like Tech Dummies, CodeKarle, and Gaurav Sen.
 
-https://nextjsvietnam.com/post/uml-use-case-diagram-cheatsheet/ 
+https://nextjsvietnam.com/post/uml-use-case-diagram-cheatsheet/
+https://github.com/tssovi/grokking-the-object-oriented-design-interview/blob/master/object-oriented-design-case-studies/design-a-parking-lot.md 
 
 
