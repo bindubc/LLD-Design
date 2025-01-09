@@ -14,5 +14,6 @@ Use Structured Resources
 
 https://nextjsvietnam.com/post/uml-use-case-diagram-cheatsheet/
 https://github.com/tssovi/grokking-the-object-oriented-design-interview/blob/master/object-oriented-design-case-studies/design-a-parking-lot.md 
+https://medium.com/javarevisited/review-is-grokking-the-low-level-design-interview-using-ood-principles-on-educative-worth-it-c49e3c65d7de 
 
 
