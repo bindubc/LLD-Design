@@ -1,3 +1,5 @@
+
+
 Use Structured Resources
 * Books:
    * "Design Patterns" by Gamma et al.
@@ -10,5 +12,6 @@ Use Structured Resources
 * Videos:
     * YouTube channels like Tech Dummies, CodeKarle, and Gaurav Sen.
 
+https://nextjsvietnam.com/post/uml-use-case-diagram-cheatsheet/ 
 
 
